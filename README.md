@@ -2,7 +2,7 @@
 The purpose of this site is to provide you with the information you need to effectively work with Tactik8 team. 
 
 # Getting started
-Fill out the new supplier form (
+Fill out the new supplier form (https://unit8.ca)
 
 # Guidelines
 ## Autonomy

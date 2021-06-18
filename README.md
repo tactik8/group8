@@ -25,6 +25,11 @@ We use google docs for excel (sheets) and word (docs). Use you unit8.ca userid t
 ## Task management
 https://app.hubspot.com/
 We use hubspot to manage projects and tasks. Each task will be created as a ticket and assigned to you. 
+- Deals: Used to monitor actual deals (opportunities) or projects. Status is new, open or closed.
+- Tickets: Used to manage high-level tasks. Typically you will be assigned a ticket for your work. Please read the description properly. 
+- Tasks: To-do items that can be associated with deals, tickets, etc.
+- Company: Record for an actual company or organization
+- Contact: Record for an actual person
 
 ## Git
 https://github.com/tactik8/

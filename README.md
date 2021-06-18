@@ -1,4 +1,4 @@
-# group8
+# Unit8
 Tactik8 supplier information site.
 
 
@@ -17,12 +17,12 @@ Speed is a constant requirement. The faster a task can be executed, the better.
 # Tools
 ## Email, calendar
 https://mail.google.com/
-We ask that all suppliers use the company email system (gmail). You will be provided an email like bob@group8.ca.
+We ask that all suppliers use the company email system (gmail). You will be provided an email like bob@unit8.ca.
 Please use this email for all your communications. 
 
 ## Documents
 https://docs.google.com/
-We use google docs for excel (sheets) and word (docs). Use you group8.ca userid to login.
+We use google docs for excel (sheets) and word (docs). Use you unit8.ca userid to login.
 
 ## Task management
 https://app.hubspot.com/
